@@ -10,7 +10,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: rgb(68, 68, 68);
+    background: rgb(194, 194, 194);
 }
 
 .card {
@@ -20,8 +20,6 @@ body {
     background: rgba(109, 45, 122, 0.45);
     border-radius: 16px;
     box-shadow: 0 50px 50px rgba(0,0,0,0.2);
-    backdrop-filter: blur(6.6px);
-    -webkit-backdrop-filter: blur(6.6px);
     padding: 20px;
 }
 
